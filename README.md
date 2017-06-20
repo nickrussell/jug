@@ -9,7 +9,8 @@ to create a CSV export of users from a user group in JIRA.
 * Run PHP CLI (see below)
 
 **Run PHP CLI**
-example:
+
+placeholder-example:
 ```
 php index.php group-name [bool]includeInactiveUsers [bool]startFrom [bool]maxResults
 ```
